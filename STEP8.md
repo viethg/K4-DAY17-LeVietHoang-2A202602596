@@ -1,6 +1,6 @@
 # BÁO CÁO PHÂN TÍCH KẾT QUẢ BENCHMARK & MỞ RỘNG MEMORY SYSTEM (BƯỚC 8 & BƯỚC 9)
 **Học phần:** Giai đoạn 2, Track 3, Day 17: Memory Systems for AI Agent  
-**Tác giả:** Lê Viết Hoàng - 2A202602596  
+**Tác giả:** Lê Việt Hoàng - 2A202602596  
 **File thực thi benchmark:** `src/benchmark.py`  
 **File kiểm thử tự động:** `src/test_agents.py`  
 
